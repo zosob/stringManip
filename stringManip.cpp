@@ -48,7 +48,9 @@ int main()
     {
         cout << i << " " << wholeName[i] << endl;
     }
+    
 
+    cout << "\n HELLO WORLD!";
 
     //Returning a portion of the string (substring)...
     cout << "Substring of your whole name from position " <<
